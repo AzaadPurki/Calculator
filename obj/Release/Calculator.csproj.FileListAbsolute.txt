@@ -1,0 +1,9 @@
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\bin\Release\Calculator.exe
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\bin\Release\Calculator.pdb
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Release\Calculator.crtView.resources
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Release\Calculator.Calculator.resources
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Release\Calculator.exe
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Release\Calculator.pdb

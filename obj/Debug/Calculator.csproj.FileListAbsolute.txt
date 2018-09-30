@@ -1,0 +1,19 @@
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\bin\Debug\Calculator.exe
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.exe
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Purki-PC\Documents\Visual Studio 2015\Projects\Telephone\Telephone\Calculator\obj\Debug\Calculator.crtView.resources
+C:\Users\Purki-PC\Desktop\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Purki-PC\Desktop\Calculator\obj\Debug\Calculator.exe
+C:\Users\Purki-PC\Desktop\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Purki-PC\Desktop\Calculator\bin\Debug\Calculator.exe
+C:\Users\Purki-PC\Desktop\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Purki-PC\Desktop\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Purki-PC\Desktop\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Purki-PC\Desktop\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Purki-PC\Desktop\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
